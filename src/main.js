@@ -1,3 +1,4 @@
-var Rx = require('rxjs/Rx');
-Rx.Observable.of(1,2,3);
-console.log('hello');
+const $ = require('jquery');
+const Rx = require('rxjs/Rx');
+
+console.log('hello world!');

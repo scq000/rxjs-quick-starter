@@ -1,5 +1,6 @@
 {
-  "name": "rx-demo",
+  "name": "rx-quick-starter",
+  "description": "A boilerplate for quickly starting your RxJs project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --watch",
@@ -10,9 +11,10 @@
     "babel": "^6.5.2",
     "babel-core": "^6.18.0",
     "babel-loader": "^6.2.5",
+    "jasmine": "^2.5.2",
+    "jquery": "^3.1.1",
     "rxjs": "^5.0.0-rc.1",
     "webpack": "^1.13.2",
-    "jasmine": "^2.5.2",
     "webpack-es6-config": "^1.0.0"
   }
 }
